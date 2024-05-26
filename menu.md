@@ -36,12 +36,15 @@
 
 ## Pasta
 
-|Lp. | **Makaron** | 30 cm |
+<img src = "img/vertical-shot-delicious-pasta-white-plate.jpg" width = 300>
+
+
+|Lp. | **Makaron** |  cena  |
 |----|--------------------------------------------------------------------------------------------------------------|------------|
-|1.  |**Spaghetti Bolognese** (z włoskimi pomidorami pelati, mięsem wołowym, mięsem wieprzowym, warzywami, oliwą extra vergine, oregano i serem Grana Padano) | 35 zł |
-|2.  |**Pizza Verona** (ciasto, sos śmietanowy, ser, szpinak, czosnek, pomidor, ser gorgonzola) | 30 zł | 38 zł |
-|3.  |**Pizza Bazyliowa** (ciasto, sos śmietanowy, mozzarella, szpinak, pomidory koktajlowe, parmezan, pesto bazyliowe) | 32 zł | 40 zł |
-|4.  |**Pizza Kurkowa** (ciasto, sos śmietanowy, mozzarella, kurczak, kurki, czerwona cebula) | 38 zł | 45 zł |
+|1.  |**Spaghetti Bolognese** (z włoskimi pomidorami pelati, mięsem wołowym, mięsem wieprzowym, warzywami, oliwą extra vergine, oregano i serem Grana Padano) | 45 zł |
+|2.  |**Spaghetti Carbonara** (z policzkiem wieprzowym Guanciale, jajkiem, serem Grana Padano i serem Pecorino Romano) | 42 zł |
+|3.  |**Tagliatelle z kurczakiem** (nduja, gorgonzola, białe wino, szalotka, pomidorki cherry, mascarpone, grana padano, rukola) | 42 zł |
+|4.  |**Lasagne** (sos boloński, beszamel, mozzarella, grana padano) | 38 zł |
 
 
 
