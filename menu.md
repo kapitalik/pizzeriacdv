@@ -1,5 +1,13 @@
 # Menu
 
+## Przystawka
+
+|Lp. | **Przystawka** | cena |
+|----|-----------------------------------------------------------------------------------------|-----------|
+|1.  |**Focaccia** (z oliwą bazyliową, posypana suszonymi pomidorami z czosnkiem) | 18 zł |
+|2.  |**Focaccia serowa** (z mozzarellą i scamorzą, posypana suszonymi pomidorami z czosnkiem) | 20 zł |
+|3.  |**Bruschetta crudo 3 szt.** (szynka parmeńska, mozzarella, salsa pomidorowa z czosnkiem i bazylią, rukola) | 25 zł |
+
 ## Pizza klasyczna
 
 <img src = "img/pizza-with-salami-tomatoes-olives-cheese-dough-with-whole-wheat-flour-italian-food.jpg" width = 300>
