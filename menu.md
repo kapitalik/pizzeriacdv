@@ -4,7 +4,7 @@
 
 <img src = "img/pizza-with-salami-tomatoes-olives-cheese-dough-with-whole-wheat-flour-italian-food.jpg" width = 300>
 
-|Lp. | **Pizza:** | 30 cm | 50 cm | 60 cm |
+|Lp. | **Pizza** | 30 cm | 50 cm | 60 cm |
 |----|-----------------------------------------------------------------------------------------|-----------|------------|------------|  
 |1.  |**Margherita** (sos pomidorowy, mozzarella) | 18 zł | 25 zł | 35 zł |
 |2.  |**Capriciosa** (ciasto, sos pomidorowy, ser, szynka, pieczarki, oregano) | 20 zł | 30 zł | 40 zł |
@@ -20,13 +20,25 @@
 |12. |**Prosciutto** (ciasto, sos pomidorowy, ser, szynka włoska, pomidory koktajlowe, rukola, oregano) | 32 zł | 42 zł | 52 zł |
 
 
+## Pizza Wegetariańska
+
+<img src = "img/high-angle-pizza-plain-background.jpg" width = 300>
+
+|Lp. | **Pizza Wege** | 30 cm | 50 cm |  60 cm |
+|----|-----------------------------------------------------------------------------------------|-----------|------------|------------| 
+|1.  |**Margherita** (ciasto, sos pomidorowy, mozzarella) | 18 zł | 25 zł | 35 zł |
+|3.  |**Quattro formaggi** (ciasto, sos z pomidorów pelati, mozzarella Cammino D'Oro, Taleggio D.O.P., scamorza, ser emilgrana) | 28 zł | 38 zł | 48 zł |
+|4.  |**Spinaci** (ciasto, sos z pomidorów pelati, mozzarella, szpinak, czosnek, ser emilgrana) | 28 zł | 38 zł | 48 zł |
+|5.  |**Vegana** (ciasto, sos z pomidorów pelati, oliwki, zapieczone pomidorki cherry, czosnek, kapary, listki bazylii) | 28 zł | 38 zł | 48 zł |
+|6.  |**Napoletana** (ciasto, sos pomidorowy, ser, salami, oliwki zielone, papryczki jalapenos, oregano) | 32 zł | 42 zł | 52 zł |
+
 
 
 ## Pizza In Bianco
 
-<img src = "img/high-angle-pizza-plain-background.jpg" width = 300>
+<img src = "img/top-view-pizza-toppings-arrangement.jpg" width = 300>
 
-|Lp. | **Pizza:** | 30 cm | 50 cm |
+|Lp. | **Pizza In Bianco** | 30 cm | 50 cm |
 |----|---------------------------------------------------------------------------------------------------------|-----------|------------|
 |1.  |**Pizza Carbonara** (ciasto, sos śmietanowy, ser, boczek, pieczarki, cebula) | 28 zł | 35 zł |
 |2.  |**Pizza Verona** (ciasto, sos śmietanowy, ser, szpinak, czosnek, pomidor, ser gorgonzola) | 30 zł | 38 zł |
