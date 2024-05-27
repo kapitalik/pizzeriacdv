@@ -1,6 +1,9 @@
 # Kontakt
 
-## Restauracja PizzeriaCDV
+## Restauracja
+<br/>
+## PizzeriaCDV
+<br/>
 <img src = "img/mapa.PNG" width = 350>
 
   **tel.** 123 345 567 <br/>
