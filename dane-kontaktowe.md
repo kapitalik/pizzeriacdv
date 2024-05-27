@@ -2,8 +2,10 @@
 
 ## Restauracja
 <br/>
-## PizzeriaCDV
-<br/>
+
+**PizzeriaCDV**
+
+<br/> <br/> 
 <img src = "img/mapa.PNG" width = 350>
 
   **tel.** 123 345 567 <br/>
