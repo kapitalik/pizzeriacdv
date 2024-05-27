@@ -2,6 +2,8 @@
 
 ## Przystawka
 
+<img src = "img/delicious-foccacia-ingredients.jpg" width = 300>
+
 |Lp. | **Przystawka** | cena |
 |----|-----------------------------------------------------------------------------------------|-----------|
 |1.  |**Focaccia** (z oliwą bazyliową, posypana suszonymi pomidorami z czosnkiem) | 18 zł |
