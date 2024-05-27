@@ -2,7 +2,7 @@
 
 ## Przystawka
 
-<img src = "img/delicious-foccacia-ingredients.jpg" width = 300>
+<img src = "img/delicious-foccacia-ingredients.jpg" width = 350>
 
 |Lp. | **Przystawka** | cena |
 |----|-----------------------------------------------------------------------------------------|-----------|
@@ -12,7 +12,7 @@
 
 ## Pizza klasyczna
 
-<img src = "img/pizza-with-salami-tomatoes-olives-cheese-dough-with-whole-wheat-flour-italian-food.jpg" width = 300>
+<img src = "img/pizza-with-salami-tomatoes-olives-cheese-dough-with-whole-wheat-flour-italian-food.jpg" width = 350>
 
 |Lp. | **Pizza** | 30 cm | 50 cm | 60 cm |
 |----|-----------------------------------------------------------------------------------------|-----------|------------|------------|  
@@ -32,7 +32,7 @@
 
 ## Pizza Wegetariańska
 
-<img src = "img/high-angle-pizza-plain-background.jpg" width = 300>
+<img src = "img/high-angle-pizza-plain-background.jpg" width = 350>
 
 |Lp. | **Pizza Wege** | 30 cm | 50 cm |  60 cm |
 |----|-----------------------------------------------------------------------------------------|-----------|------------|------------| 
@@ -46,7 +46,7 @@
 
 ## Pizza In Bianco
 
-<img src = "img/top-view-pizza-toppings-arrangement.jpg" width = 300>
+<img src = "img/top-view-pizza-toppings-arrangement.jpg" width = 350>
 
 |Lp. | **Pizza In Bianco** | 30 cm | 50 cm |
 |----|---------------------------------------------------------------------------------------------------------|-----------|------------|
@@ -58,7 +58,7 @@
 
 ## Makarony
 
-<img src = "img/vertical-shot-delicious-pasta-white-plate.jpg" width = 300>
+<img src = "img/vertical-shot-delicious-pasta-white-plate.jpg" width = 350>
 
 
 |Lp. | **Makaron** |  cena  |
@@ -71,7 +71,7 @@
 
 ## Sałatki
 
-<img src = "img/waiter-holding-plate-green-salad-with-dried-tomato.jpg" width = 300>
+<img src = "img/waiter-holding-plate-green-salad-with-dried-tomato.jpg" width = 350>
 
 |Lp. | **Sałatki** |  cena  |
 |----|---------------------------------------------------------------------------------------------|------------|
@@ -82,7 +82,7 @@
 
 ## Desery
 
-<img src = "img/front-view-delicious-tiramisuconcept.jpg" width = 300>
+<img src = "img/front-view-delicious-tiramisuconcept.jpg" width = 350>
 
 |Lp. | **Desery** |  cena  |
 |----|---------------------------------------------------------------------------------------------|------------|
@@ -94,7 +94,7 @@
 
 ## Soki i napoje
 
-<img src = "img/fresh-lemonade-soda-with-sliced-lemons-glass.jpg" width = 300>
+<img src = "img/fresh-lemonade-soda-with-sliced-lemons-glass.jpg" width = 350>
 
 |Lp. | **Soki i napoje** |  ml  |  cena  |
 |----|---------------------------------------------------------------------------------------------|------------|------------|
@@ -106,7 +106,7 @@
 
 
 ## Kawy
-<img src = "img/cup-cappuccino-cinnamon.jpg" width = 300>
+<img src = "img/cup-cappuccino-cinnamon.jpg" width = 350>
 
 |Lp. | **Kawy** |  cena  |
 |----|---------------------------------------------------------------------------------------------|------------|
