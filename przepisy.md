@@ -2,7 +2,6 @@
 
 ## Przepis na ciasto neapolitańskie
 
-Składniki
 
     mąka włoska typ 00 - 300 g
     woda niegazowana źródlana - 188 ml
@@ -42,15 +41,14 @@ Włóż obie kulki do pojemnika, a następnie odłóż go w ciemne miejsce na ok
 **KROK 10: PRZYGOTOWUJEMY DODATKI** <br/>
 Pomidory przeciśnij pomiędzy palcami do miski i dodaj do nich sól. Mozzarellę pokrój w słupki.<br/>
 
-KROK 11: PODSMAŻAMY PIZZĘ
+**KROK 11: PODSMAŻAMY PIZZĘ** <br/>
+Rozgrzej patelnię na kuchence do temperatury ok. 300 stopni C. Wyjmij kulkę ciasta z pojemnika i delikatnie zamocz w mące, a potem rozciągnij i połóż na patelni. <br/>
 
-Rozgrzej patelnię na kuchence do temperatury ok. 300 stopni C. Wyjmij kulkę ciasta z pojemnika i delikatnie zamocz w mące, a potem rozciągnij i połóż na patelni.
-KROK 12: UKŁADAMY DODATKI
+**KROK 12: UKŁADAMY DODATKI** <br/>
+Na ułożone na patelni ciasto dodaj pomidory, potem mozzarellę i odrobinę oliwy. Pozwól ciastu przez chwilę się podsmażyć, aby na jego spodzie i brzegach utworzyły się czarne plamki. Brzegi powinny być grube, wyrośnięte i pulchne, a  środek ciasta cieniutki. <br/>
 
-Na ułożone na patelni ciasto dodaj pomidory, potem mozzarellę i odrobinę oliwy. Pozwól ciastu przez chwilę się podsmażyć, aby na jego spodzie i brzegach utworzyły się czarne plamki. Brzegi powinny być grube, wyrośnięte i pulchne, a  środek ciasta cieniutki.
-KROK 13: WKŁADAMY PATELNIĘ DO PIEKARNIKA
+**KROK 13: WKŁADAMY PATELNIĘ DO PIEKARNIKA**<br/>
+Rozgrzej piekarnik do temperatury 250 stopni C na funkcji grill. Ściągnij patelnię z kuchenki i włóż lekko uchylonymi drzwiczkami do piekarnika na najwyższą półkę (zaraz pod grzałką). Jeśli to niemożliwe, zamknij drzwiczki Piecz ok. 2 minuty, a jeśli pizza będzie wypiekała się nierównomiernie, obróć patelnię o 180 stopni. Do pieczenia używaj timera, by nie przypalić pizzy. <br/>
 
-Rozgrzej piekarnik do temperatury 250 stopni C na funkcji grill. Ściągnij patelnię z kuchenki i włóż lekko uchylonymi drzwiczkami do piekarnika na najwyższą półkę (zaraz pod grzałką). Jeśli to niemożliwe, zamknij drzwiczki Piecz ok. 2 minuty, a jeśli pizza będzie wypiekała się nierównomiernie, obróć patelnię o 180 stopni. Do pieczenia używaj timera, by nie przypalić pizzy.
-KROK 14: WYCIĄGAMY PIZZĘ
-
-Włóż na rękę rękawicę i wyciągnij pizzę z piekarnika. Po chwili przełóż ją na talerz (najlepiej zrobić to przy użyciu łopatki), posyp bazylią i daj jej odpocząć przez kilka minut. Po chwili pizza gotowa jest do krojenia! Możesz przejść do wypiekania kolejnej pizzy.
+**KROK 14: WYCIĄGAMY PIZZĘ** <br/>
+Włóż na rękę rękawicę i wyciągnij pizzę z piekarnika. Po chwili przełóż ją na talerz (najlepiej zrobić to przy użyciu łopatki), posyp bazylią i daj jej odpocząć przez kilka minut. Po chwili pizza gotowa jest do krojenia! Możesz przejść do wypiekania kolejnej pizzy. <br/>
