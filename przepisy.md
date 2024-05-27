@@ -17,30 +17,31 @@ Drożdże rozpuść w wodzie, a następnie wlej do misy robota kuchennego. Dodaj
 
 **KROK 2: DODAJEMY MĄKĘ** <br/>
 Do miski dodaj połowę mąki (łyżka po łyżce) i wymieszaj na niskich obrotach. Po ok. 2 minutach powinna uformować się gęsta masa. <br/>
-KROK 3: DODAJEMY SÓL <br/>
 
+**KROK 3: DODAJEMY SÓL** <br/>
 Do misy dodaj sól i mieszaj masę przez co najmniej 20 sekund. <br/>
-KROK 4: DODAJEMY RESZTĘ MĄKI <br/>
 
+**KROK 4: DODAJEMY RESZTĘ MĄKI** <br/>
 Ostrożnie, łyżka po łyżce wsyp resztę mąki (zostaw sobie 15 g do posypania blatu), cały czas mieszając na niskich obrotach. Całość powinna być mieszana przez 2-3 minuty, aby ciasto wchłonęło wodę. <br/>
-KROK 5: WYRABIAMY CIASTO <br/>
 
+**KROK 5: WYRABIAMY CIASTO** <br/>
 Podsyp stolnicę mąką, a potem wyłóż ciasto na blat. Zacznij wyrabianie ciasta na blacie, zagniatając do przodu i do siebie, aż do momentu, w którym nabierze sprężystej konsystencji. Wyrabianie powinno zająć mniej więcej 15 minut. Po tym czasie należy zwinąć je w kulkę i wsadzić do pojemnika z przykrywką na 15 minut, by odpoczęło. Po upływie wyznaczonego czasu należy wrócić do wyrabiania i kontynuować je przez kolejne 15 minut. Na tym etapie ciasto będzie jędrne i gładkie. <br/>
-KROK 6: ODKŁADAMY NA BOK <br/>
 
+**KROK 6: ODKŁADAMY NA BOK** <br/>
 Z ciasta uformuj kulkę, włóż do pojemnika i zamknij. Odstaw w ciemne miejsce na 4 godziny, by mogło dojrzeć. <br/> 
-KROK 7: PRZEKŁADAMY POJEMNIK DO LODÓWKI <br/>
 
-Przełóż pojemnik do lodówki na co najmniej 10 godzin (najlepiej na całe 24 godziny).
-KROK 8: FORMUJEMY CIASTO
+**KROK 7: PRZEKŁADAMY POJEMNIK DO LODÓWKI** <br/>
+Przełóż pojemnik do lodówki na co najmniej 10 godzin (najlepiej na całe 24 godziny). <br/>
 
-Wyciągnij ciasto z lodówki, a następnie podziel je na dwie części i z każdej uformuj kulkę, przepuszczając ciasto przez ręce, naciągając zewnętrzne boki do środka, by je delikatnie napowietrzyć i zamknąć.
-KROK 9: ODSTAWIAMY KULKI DO PONOWNEGO DOJRZEWANIA
+**KROK 8: FORMUJEMY CIASTO** <br/>
+Wyciągnij ciasto z lodówki, a następnie podziel je na dwie części i z każdej uformuj kulkę, przepuszczając ciasto przez ręce, naciągając zewnętrzne boki do środka, by je delikatnie napowietrzyć i zamknąć. <br/>
 
-Włóż obie kulki do pojemnika, a następnie odłóż go w ciemne miejsce na ok. 5 godzin, by ciasto mogło wygarować.
-KROK 10: PRZYGOTOWUJEMY DODATKI
+**KROK 9: ODSTAWIAMY KULKI DO PONOWNEGO DOJRZEWANIA** <br/>
+Włóż obie kulki do pojemnika, a następnie odłóż go w ciemne miejsce na ok. 5 godzin, by ciasto mogło wygarować. <br/>
 
-Pomidory przeciśnij pomiędzy palcami do miski i dodaj do nich sól. Mozzarellę pokrój w słupki.
+**KROK 10: PRZYGOTOWUJEMY DODATKI** <br/>
+Pomidory przeciśnij pomiędzy palcami do miski i dodaj do nich sól. Mozzarellę pokrój w słupki.<br/>
+
 KROK 11: PODSMAŻAMY PIZZĘ
 
 Rozgrzej patelnię na kuchence do temperatury ok. 300 stopni C. Wyjmij kulkę ciasta z pojemnika i delikatnie zamocz w mące, a potem rozciągnij i połóż na patelni.
