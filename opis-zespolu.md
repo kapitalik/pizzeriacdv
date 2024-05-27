@@ -1,3 +1,4 @@
+
 # Nasz zespół
 
 ## Kierownik
@@ -28,4 +29,5 @@ Maja, Kamila, Kacper, Miłosz, Kasia, Weronika, Oskar
 UberEats, Pyszne.pl, Glovo, Wolt
 
 ## Grafik
+
 

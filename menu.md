@@ -1,10 +1,10 @@
 # Menu
 
-## Przystawka
+## Przystawki
 
 <img src = "img/delicious-foccacia-ingredients.jpg" width = 350>
 
-|Lp. | **Przystawka** | cena |
+|Lp. | **Przystawki** | cena |
 |----|-----------------------------------------------------------------------------------------|-----------|
 |1.  |**Focaccia** (z oliwą bazyliową, posypana suszonymi pomidorami z czosnkiem) | 18 zł |
 |2.  |**Focaccia serowa** (z mozzarellą i scamorzą, posypana suszonymi pomidorami z czosnkiem) | 20 zł |
