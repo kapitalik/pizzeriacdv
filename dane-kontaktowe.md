@@ -1,7 +1,7 @@
 # Kontakt
 
 ## Restauracja PizzeriaCDV
-<img src = "img/delicious-foccacia-ingredients.jpg" width = 350>
+<img src = "img/mapa.PNG" width = 350>
 
 <p>
   tel. 123 345 567 <br/>
