@@ -2,6 +2,7 @@
 
 ## Kierownik
 Tomasz Marzec
+<img src = "img/chef-cooking-kitchen-while-wearing-professional-attire.jpg" width = 300>
 
 ## Kucharz
 
