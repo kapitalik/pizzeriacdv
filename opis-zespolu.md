@@ -1,4 +1,4 @@
-# Zespół PizzeriaCDV
+# Nasz zespół
 
 ## Kierownik
 Tomasz Marzec
