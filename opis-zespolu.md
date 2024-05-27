@@ -16,7 +16,11 @@ Tomasz Marzec
 
 ## Obsługa
 
+Maja, Kamila, Kacper, Miłosz, Kasia, Weronika, Oskar
+
 ## Dostawca
+
+UberEats, Pyszne.pl, Glovo, Wolt
 
 ## Grafik
 
